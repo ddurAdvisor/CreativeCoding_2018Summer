@@ -67,7 +67,9 @@ Course Materials for 基于开源环境的创意建模
 - [FinalProject课程项目](https://github.com/ddurAdvisor/CreativeCoding_2017Summer/tree/master/FinalProject)
 
 ### 教学参考网站：  
-https://github.com/ddurAdvisor/CreativeCoding_2017Summer 2017年教学内容与代码库  
+https://github.com/ddurAdvisor/CreativeCoding_2017Summer 2017年processing教学内容与代码库  
+https://github.com/ddurAdvisor/CreativeCoding_2017Summer/tree/master/ProcessingCourse/Reference_2016 2016年processing教学内容与代码库  
+
 http://www.arduino.cc/  
 http://www.processing.org/  
 http://www.instructables.com/  
