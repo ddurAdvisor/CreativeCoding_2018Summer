@@ -21,6 +21,11 @@
 - PVector数学
 - OOP面向对象编程
 
+### 示范代码
+#### bit2atom_180627f  
+
+![img](https://github.com/ddurAdvisor/CreativeCoding_2018Summer/blob/master/ProcessingCourse/Day3_workshop/Img/bit2atom_180627f.png)
+
 ### 练习
 - 基于OOP的物理学现象模拟，要求用到OOP, PVector, Array/ArrayList等机制实现这个模拟。
 - 编写一个Markdown文档对作业进行说明
