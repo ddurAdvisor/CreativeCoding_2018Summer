@@ -22,7 +22,7 @@
 - OOP面向对象编程
 
 ### 示范代码
-#### bit2atom_180627f  
+-  bit2atom_180627f(https://github.com/ddurAdvisor/CreativeCoding_2018Summer/tree/master/ProcessingCourse/Day3_workshop/bit2atom_180627f)  
 
 ![img](https://github.com/ddurAdvisor/CreativeCoding_2018Summer/blob/master/ProcessingCourse/Day3_workshop/Img/bit2atom_180627f.png)
 
