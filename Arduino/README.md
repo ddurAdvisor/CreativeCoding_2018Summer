@@ -1,4 +1,4 @@
-# CreativeCoding_2017Summer
+# CreativeCoding_2018Summer
 
 ## ArduinoCourse
 
@@ -10,7 +10,7 @@
 - Day2:Arduino语法讲解，实验讲解
 - Day3: 实验讲解
 - Day4: 实验讲解
-- Day5:实验讲解
+- Day5: 小作业分享，大作业案例介绍
 - Final Project: Coding Challenge for Creativity
 
 ### Arduino下载链接
